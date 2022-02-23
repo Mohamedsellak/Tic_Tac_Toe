@@ -45,3 +45,14 @@ button{
 button:hover{
   background: #000 ;
 }
+@media screen and (max-width:576px){
+  .game {
+    width : 314px ;
+  }
+  .square {
+    width: 100px ;
+    height: 100px ;
+    margin: 2px ;
+    font-size: 50px;
+  }
+}
