@@ -1,0 +1,43 @@
+
+.game {
+  width : 255px ;
+  Text-align: center ;
+  font-family: verdana ;
+  color: #eee ; 
+  font-weight: bold ; 
+  margin: auto;
+}
+.title {
+  background: #26AEE8;
+  padding: 5px 0px ;
+  margin: 5px 0px;
+}
+span {
+  color: gold ;
+}
+.square {
+  width: 80px ;
+  height: 80px ;
+  background: #26AEE8 ;
+  margin: 2px ;
+  float: left ;
+  font-size: 50px;
+}
+.square:hover{
+  background: #000 ;
+}
+button{
+  font-size: 15px;
+  margin-top: 15px;
+  Background-color: #26AEE8;
+  display: inline-block;
+  border: none;
+  border-radius: 25px;
+  Color: #eee;
+  Font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  
+  
+}
