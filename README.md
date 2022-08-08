@@ -1,4 +1,4 @@
-👋💜 Hi, I’m @Mohammed Sellak! Front-End Developer / UI Designer 👩‍💻 and Digital Illustrator 🎨
+👋💜 Hi, I’m @Mohammed Sellak! FullStack Developer / UI | UX Designer 👩‍💻 and Digital Illustrator 🎨
 
 👀 I’m interested in music, videogames and 3D Design! Always ready to learn more!
 
